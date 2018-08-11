@@ -176,7 +176,7 @@ ul, ol {
     right: 0;
     bottom: 0;
     opacity: .8;
-    background: #000066;
+    background: #1C1D21;
 }
 
 
@@ -686,7 +686,7 @@ header {
 }
 
 .work .overlay {
-    background: #000066;
+    background: #1C1D21;
     position: absolute;
     top: 0px;
     left: 0px;
