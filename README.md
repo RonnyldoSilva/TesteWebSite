@@ -1,4 +1,4 @@
-# Just an Example of Website programming wih Github
+# Just an Example of Website programming with Github
 
 My site is published at https://ronnyldosilva.github.io/TesteWebSite/
 
