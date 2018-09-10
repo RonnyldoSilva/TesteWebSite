@@ -1,6 +1,6 @@
 # Just an Example of Website programming with Github
 
-<img src="https://github.com/RonnyldoSilva/TesteWebSite/blob/master/img/logo.png">
+<img src="https://github.com/RonnyldoSilva/TesteWebSite/blob/master/img/logo.png" align="middle">
 
 This site is published at https://ronnyldosilva.github.io/TesteWebSite/
 
