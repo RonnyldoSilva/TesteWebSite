@@ -1,4 +1,4 @@
-# Just an Example of Website programming with Github
+# Just an example of website programming with Github Pages
 
 <img src="https://github.com/RonnyldoSilva/TesteWebSite/blob/master/img/logo.png" align="middle">
 
